@@ -1,0 +1,10 @@
+<material>
+    <technique name="Techniques/UIDiffVFX3.xml" />
+    <texture unit="diffuse" name="Textures/rimeFire.png" />
+    <texture unit="normal" name="Textures/rimefoam.jpg" />
+    <texture unit="specular" name="Textures/rimeFireMask.png" />
+    <texture unit="emissive" name="Textures/rimeFireGRAD.png" />
+    <parameter name="SpeedA" value="0.0001 0.06" />
+    <parameter name="Tiling" value="0.04" />
+    <parameter name="ScaleParam" value="2.2" />
+</material>

@@ -1,0 +1,3 @@
+<technique vs="UIDiff" ps="UIDiff" vsdefines="VERTEXCOLOR" psdefines="DIFFMAP VERTEXCOLOR">
+    <pass name="base" />
+</technique>

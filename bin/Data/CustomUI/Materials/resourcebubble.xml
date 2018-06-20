@@ -1,0 +1,9 @@
+<material>
+	<technique name="Techniques/resourcebubble.xml" />
+	<texture unit="0" name="Textures/glass.png" />
+	<texture unit="1" name="Textures/mask.png" />
+	<texture unit="2" name="Textures/noise.png" />
+	<texture unit="3" name="Textures/normaltex.png" />
+	<texture unit="4" name="Textures/stars.png" />
+    <parameter name="Level" value="0.5" />
+</material>

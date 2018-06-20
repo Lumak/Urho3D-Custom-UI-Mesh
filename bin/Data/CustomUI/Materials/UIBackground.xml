@@ -1,0 +1,11 @@
+<material>
+	<technique name="Techniques/UIDiffVFX1.xml" />
+	<texture unit="diffuse" name="Textures/glowBtnCircMask.png" />
+	<texture unit="specular" name="Textures/glowBtnGloss.png" />
+	<texture unit="emissive" name="Textures/glowBtnNoise.png" />
+	<parameter name="MatDiffColor" value="0 0.8 0 1.0" />
+    <parameter name="MatSpecColor" value="1 1 1 2" />
+    <parameter name="SpeedA" value="0.0 0.06" />
+    <parameter name="SpeedB" value="0.05 0.05" />
+    <parameter name="UseCircularMask" value="1" />
+</material>
